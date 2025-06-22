@@ -1,4 +1,4 @@
-# Hi there, I'm Utkrisht Verma 👋
+# Namaskaram 🙏, I'm Utkrisht Verma 👋
 
 > _"I turn data into decisions, chai or coffee into code, and bugs into... well, more interesting bugs."_
 
